@@ -102,4 +102,4 @@ node --check client.js
 
 ## License
 
-未指定许可证。请在公开分发前补充适合项目的 license 文件。
+本项目采用 [MIT License](LICENSE)。
